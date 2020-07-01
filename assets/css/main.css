@@ -1,0 +1,39 @@
+body{
+	background: #efefef;
+}
+
+header{
+	height: 60px;
+	background: #55f;
+	padding: 0 10px;
+}
+
+nav{
+	background: #fff;
+}
+
+ul>li{
+	display: inline-block
+}
+
+.fa-1x{
+	font-size: 1.5em;
+}
+
+.logo{
+	color: #fff;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+.btn,.dropdown-menu,.card{
+	border-radius: 0;
+}
+
+.sub-item{
+	display: none
+}
+
+.show{
+	display: block
+}
