@@ -2,8 +2,10 @@
 
 Template para sistemas Web, desenvolvido com uma interface diferente dos outros templates padrões.
 
-Gostaria muito da sua colaboração, para colaborar é só dar um fork neste projeto.
+Gostaria muito da sua colaboração, para colaborar é só dar um fork neste projeto. Quem colaborar terá seu nome e nick do github divulgado neste projeto e servirá de portfólio.
 
 Caso tenha alguma dúvida deixe uma issue que responderei assim que possível.
 
-Quem colaborar terá seu nome e nick do github divulgado neste projeto e servirá de portfólio.
+## Sumário
+* teste
+*
